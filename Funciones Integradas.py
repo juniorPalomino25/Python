@@ -1,0 +1,23 @@
+# Funciones integradas
+
+m = float ("5")
+n = float ("5")
+p = str (10.98)
+q = bin(10)
+r = hex(10)
+s = int("0b1010", 2)
+t = int("0xa", 16)
+u = abs(-13)
+v = round(14.567)
+x = len("funciones integradas")
+
+print(m)
+print(n)
+print(p)
+print(q)
+print(r)
+print(s)
+print(t)
+print(u)
+print(v)
+print(x)

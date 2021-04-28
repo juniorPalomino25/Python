@@ -1,0 +1,14 @@
+//NUEVO REPOSITORIO
+*git status
+*git add .
+*git commit -m "comentario"
+*git remote add origin "URL"
+*git push origin main
+
+//PUSHEAR
+
+*git status
+*git add .
+*git commit -m "comentario"
+*git push -u origin main
+*exit
