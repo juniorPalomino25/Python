@@ -7,8 +7,8 @@
 
 //PUSHEAR
 
-*git status
 *git add .
+*git status
 *git commit -m "comentario"
 *git push -u origin main
 *exit
